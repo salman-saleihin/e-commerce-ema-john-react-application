@@ -44,6 +44,13 @@ function App() {
         </Switch>
       </Router>
 
+
+      {/* <Routes>
+        < Route path='/' element={<Home />} />
+        < Route path='/review' element={<Review />} />
+        < Route path='/inventory' element={<Inventory/>} />
+        < Route path='/' element={<Shop />} />
+      </Routes> */}
       
      
     </div>
